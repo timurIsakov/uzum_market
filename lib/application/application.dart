@@ -26,6 +26,7 @@ class _ApplicationState extends State<Application> {
           title: 'Uzum Market',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
+            fontFamily: "Inter",
             useMaterial3: true,
           ),
           home: child,
