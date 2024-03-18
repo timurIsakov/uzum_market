@@ -1,3 +1,7 @@
 {
-
+  "itemBottomBarMain":"Главная",
+  "itemBottomBarCatalog":"Каталог",
+  "itemBottomBarShop":"Корзина",
+  "itemBottomBarFavorite":"Избранное",
+  "itemBottomBarProfile":"Кабинет"
 }
