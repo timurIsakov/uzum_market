@@ -3,5 +3,15 @@
   "itemBottomBarCatalog":"Katalog",
   "itemBottomBarShop":"Savat",
   "itemBottomBarFavorite":"Istaklarim",
-  "itemBottomBarProfile":"Kabinet"
+  "itemBottomBarProfile":"Kabinet",
+  "searchFieldTitle": "Mahsulot va toifalarni qidirish",
+  "titleAllProducts": "Barcha mahsulotlar",
+  "titleCountOrders": "{} ta buyurtma",
+  "titlePriceMonth": "{} so'm/oyiga",
+  "titleSum": "{} so'm"
+
+
+
+
+
 }

@@ -43,6 +43,8 @@ dependencies:
   flutter_launcher_icons: ^0.13.1
   another_flutter_splash_screen: ^1.2.0
   flutter_svg: ^2.0.10+1
+  keyboard_dismisser: ^3.0.0
+  flutter_carousel_widget: ^2.2.0
 
 dev_dependencies:
   flutter_test:

@@ -3,5 +3,12 @@
   "itemBottomBarCatalog":"Каталог",
   "itemBottomBarShop":"Корзина",
   "itemBottomBarFavorite":"Избранное",
-  "itemBottomBarProfile":"Кабинет"
+  "itemBottomBarProfile":"Кабинет",
+  "searchFieldTitle": "Искать товары и категории",
+  "titleAllProducts": "Все товары",
+  "titleCountOrders": "{} заказов",
+  "titlePriceMonth": "{} сум/месяц",
+  "titleSum": "{} сум"
+
+
 }

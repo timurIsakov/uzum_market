@@ -4,6 +4,7 @@ import 'review_entity.dart';
 import 'seller_entity.dart';
 
 class ProductEntity extends Equatable {
+  final int id;
   final List<String> images;
   final String title;
   final double stars;
@@ -19,7 +20,8 @@ class ProductEntity extends Equatable {
   final SellerEntity seller;
 
   const ProductEntity(
-      {required this.images,
+      {required this.id,
+      required this.images,
       required this.title,
       required this.stars,
       required this.countReviews,

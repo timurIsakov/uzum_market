@@ -8,5 +8,6 @@ class Assets {
   static const String tFavorite = "assets/icons/favorite.svg";
   static const String tProfile = "assets/icons/profile.svg";
   static const String tCatalog = "assets/icons/catalog.svg";
-
+  static const String tAdd = "assets/icons/add.svg";
+  static const String tAddFavorite = "assets/icons/add_favorite.svg";
 }
